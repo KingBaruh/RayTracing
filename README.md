@@ -54,8 +54,5 @@ To compile and run this project, you need:
 - `FillRays`: Simulates the rays moving outward until they hit an obstacle.
 - `main`: Handles SDL initialization, event loop, rendering, and cleanup.
 
-## License
-
-This project is released under the MIT License.
 
 
