@@ -22,7 +22,6 @@ struct Ray {
     double angle;
 };
 
-// Improved FillCircle function
 void FillCircle(SDL_Surface* surface, struct Circle circle, Uint32 color) {
     int r_int = (int)circle.r;
     int cx = (int)circle.x;
